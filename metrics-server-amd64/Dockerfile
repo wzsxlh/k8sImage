@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/metrics-server-amd64
+FROM rancher/metrics-server:v0.3.6
